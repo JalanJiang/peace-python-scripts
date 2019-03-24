@@ -24,7 +24,7 @@ pip install pillow
 
 画一个卤蛋头。
 
-<img src="https://s2.ax1x.com/2019/03/24/AYWbDS.jpg">
+<img src="https://s2.ax1x.com/2019/03/24/AYWbDS.jpg" width="400px" height="600px">
 
 ```
 main.py [-h] [-o OUTPUT] [--width WIDTH] [--height HEIGHT] file
