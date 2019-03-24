@@ -24,7 +24,8 @@ pip install pillow
 
 画一个卤蛋头。
 
-<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1553440058293&di=59c9558e8d9713808d70dc215f46ad01&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201602%2F01%2F20160201133705_yVmJM.thumb.700_0.jpeg" width="30px" height="60px"></img>
+<img width="100px" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1553440058293&di=59c9558e8d9713808d70dc215f46ad01&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201602%2F01%2F20160201133705_yVmJM.thumb.700_0.jpeg">
+
 
 ```
 main.py [-h] [-o OUTPUT] [--width WIDTH] [--height HEIGHT] file
